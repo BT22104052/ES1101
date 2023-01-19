@@ -1,0 +1,26 @@
+Enter marks: 
+56
+Your Marks is 56
+ Grade C
+Enter Year:
+2020
+Year 2020 is a leap year
+No of Questions:
+4
+Qus 1: 8*6=
+48
+Right!
+Qus 2: 1*9=
+9
+Right!
+Qus 3: 6*0=
+0
+Right!
+Qus 4: 0*7=
+0
+Right!
+177  is the answer!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
