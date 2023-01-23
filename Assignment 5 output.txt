@@ -1,0 +1,114 @@
+ #ANS1
+My Name is XXXXX
+XXXXX si emaN yM
+
+#ANS2
+range:100
+User Number:5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+
+#ANS3
+Enter the first length: 10
+Enter the second length: 15
+Enter the third length: 20
+Yes
+The area of the triangle is 72.62
+
+#ANS4
+No. of Rows: 5
+
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+
+#ANS5
+No. of Rows: 5
+A
+BC
+DEF
+GHIJ
+KLMNO
+
+#ANS6
+range:50
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+
+#ANS7
+['0', '77', '154', '231', '308', '385', '462']
+
+#ANS8
+Enter number of elements : 5
+1
+2
+2
+-3
+-7
+[1, 2, 2, -3, -7]
+#a 1 is positive
+   2 is positive
+   2 is positive
+#b-3 is negative
+  -7 is negative
+#c 1 is Odd
+  -3 is Odd
+  -7 is Odd
+#d 2 is Ever
+   2 is Ever
+#e Count of 1=1
+   Count of 2=2
+   Count of 2=2
+   Count of -3=1
+   Count of -7=1
+
+#ANS9
+Enter number of elements : 5
+car    
+car
+car
+bus
+bus
+['car ', 'car', 'car', 'bus', 'bus']
+Count of car =1
+Count of car=2
+Count of car=2
+Count of bus=2
+Count of bus=2
